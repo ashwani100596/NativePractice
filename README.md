@@ -15,4 +15,4 @@ After this article you will be able to perform basic things about react natiive 
 
 ## Screenshots
 
-![img1](./assets/img1.png "img1")
+![img1](./assets/img1.jpeg "img1")
