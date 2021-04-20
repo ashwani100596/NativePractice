@@ -11,4 +11,8 @@ Watch this video to start from beginnig[Youtube](https://www.youtube.com/watch?v
 
 ## Conclution
 
-After this article you will be able to perform basic things about react natiive how react native and how to implement on it
+After this article you will be able to perform basic things about react natiive how react native and how to implement on it.
+
+## Screenshots
+
+![img1](./assets/img1.png "img1")
