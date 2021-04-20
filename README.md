@@ -16,3 +16,9 @@ After this article you will be able to perform basic things about react natiive 
 ## Screenshots
 
 ![img1](./assets/img1.jpeg "img1")
+
+![img2](./assets/img2.jpeg "img2")
+
+![img3](./assets/img3.jpeg "img3")
+
+![img4](./assets/img4.jpeg "img4")
